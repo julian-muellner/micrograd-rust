@@ -1,0 +1,10 @@
+[package]
+name = "micrograd-rust"
+description = "Implementation of Andrej Karpathy's micrograd in rust."
+authors = ["Julian Müllner"]
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/julian-muellner/micrograd-rust"
+
+[dependencies]
